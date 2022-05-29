@@ -102,6 +102,7 @@ li {
   display: block;
   padding-top: 32px;
   padding-bottom: 32px;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .navigation-item {
@@ -157,11 +158,13 @@ li {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--main-txt-color--);
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .contact-icon {
   margin-right: 10px;
   fill: var(--main-txt-color--);
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .contact-link:hover,
@@ -222,6 +225,7 @@ li {
   width: 200px;
   height: 50px;
   border-radius: 4px;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .hero-button:hover,
@@ -487,10 +491,12 @@ li {
   width: 44px;
   height: 44px;
   border-radius: 50%;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .socials-icon {
   fill: #afb1b8;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .socials-link:hover .socials-icon,
@@ -525,10 +531,12 @@ li {
   height: 92px;
   border: 1px solid #afb1b8;
   border-radius: 4px;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .clients-icon {
   fill: #afb1b8;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .clients-link:hover .clients-icon,
@@ -601,10 +609,12 @@ li {
   height: 44px;
   border-radius: 50%;
   background-color: rgba(255, 255, 255, 0.1);
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .socials-icon-footer {
   fill:var(--sekondari-txt-color2--);
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .socials-link-footer:hover .socials-icon-footer,
@@ -698,6 +708,7 @@ li {
   
   border-radius: 4px;
   cursor: pointer;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
   
 }
 
@@ -734,6 +745,7 @@ li {
 .galery-link {
   display: block;
   box-sizing: border-box
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .gallery-an {
